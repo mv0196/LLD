@@ -1,0 +1,16 @@
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.exe
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.deps.json
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.runtimeconfig.json
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.runtimeconfig.dev.json
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.dll
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\ref\VendingMachineLLD.dll
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\bin\Debug\net5.0\VendingMachineLLD.pdb
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.csproj.AssemblyReference.cache
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.AssemblyInfoInputs.cache
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.AssemblyInfo.cs
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.csproj.CoreCompileInputs.cache
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.dll
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\ref\VendingMachineLLD.dll
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.pdb
+C:\Users\mukul.verma4\Desktop\LLD\VendingMachineLLD\VendingMachineLLD\obj\Debug\net5.0\VendingMachineLLD.genruntimeconfig.cache
