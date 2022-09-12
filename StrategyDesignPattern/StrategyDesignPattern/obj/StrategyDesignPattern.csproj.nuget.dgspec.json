@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\LLD\\VendingMachineLLD\\VendingMachineLLD\\VendingMachineLLD.csproj": {}
+    "I:\\LLD\\StrategyDesignPattern\\StrategyDesignPattern\\StrategyDesignPattern.csproj": {}
   },
   "projects": {
-    "I:\\LLD\\VendingMachineLLD\\VendingMachineLLD\\VendingMachineLLD.csproj": {
+    "I:\\LLD\\StrategyDesignPattern\\StrategyDesignPattern\\StrategyDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\LLD\\VendingMachineLLD\\VendingMachineLLD\\VendingMachineLLD.csproj",
-        "projectName": "VendingMachineLLD",
-        "projectPath": "I:\\LLD\\VendingMachineLLD\\VendingMachineLLD\\VendingMachineLLD.csproj",
+        "projectUniqueName": "I:\\LLD\\StrategyDesignPattern\\StrategyDesignPattern\\StrategyDesignPattern.csproj",
+        "projectName": "StrategyDesignPattern",
+        "projectPath": "I:\\LLD\\StrategyDesignPattern\\StrategyDesignPattern\\StrategyDesignPattern.csproj",
         "packagesPath": "C:\\Users\\Mukul Verma\\.nuget\\packages\\",
-        "outputPath": "I:\\LLD\\VendingMachineLLD\\VendingMachineLLD\\obj\\",
+        "outputPath": "I:\\LLD\\StrategyDesignPattern\\StrategyDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
