@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace AbstractFactoryPattern.FactoryDesign
+namespace FactoryDesignPattern.FactoryDesign
 {
     internal interface IShape
     {

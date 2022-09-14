@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbstractFactoryPattern.FactoryDesign
+namespace FactoryDesignPattern.FactoryDesign
 {
     internal class Circle:IShape
     {

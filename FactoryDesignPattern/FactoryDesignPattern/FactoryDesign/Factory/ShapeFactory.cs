@@ -1,25 +1,26 @@
-﻿namespace AbstractFactoryPattern.FactoryDesign.Factory
+﻿namespace FactoryDesignPattern.FactoryDesign.Factory
 {
     internal class ShapeFactory
     {
+        IShape shape = null;
         public IShape GetShape(string shapeName)
         {
             shapeName = shapeName.ToLower();
             switch (shapeName)
             {
                 case "circle":
-                    return new Circle();
+                    shape =  new Circle();
                     break;
                 case "square":
-                    return new Square();
+                    shape =  new Square();
                     break;
                 case "rectangle":
-                    return new Rectangle();
+                    shape =  new Rectangle();
                     break;
                 default:
                     break;
             }
-            return null;
+            return shape;
         }
     }
 }

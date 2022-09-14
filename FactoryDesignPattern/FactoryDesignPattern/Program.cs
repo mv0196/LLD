@@ -1,8 +1,8 @@
-﻿using AbstractFactoryPattern.FactoryDesign;
-using AbstractFactoryPattern.FactoryDesign.Factory;
+﻿using FactoryDesignPattern.FactoryDesign;
+using FactoryDesignPattern.FactoryDesign.Factory;
 using System;
 
-namespace AbstractFactoryPattern
+namespace FactoryDesignPattern
 {
     public class Program
     {
